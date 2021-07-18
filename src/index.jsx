@@ -1,10 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import ArticleContainer from './components/ArticleContainer';
-import { Title } from './components/Title';
-import Paragraph from './components/Paragraph';
-import EnNegrita from './components/EnNegrita';
-import DeColorRojo from './components/DeColorRojo';
+import { Title, Paragraph, EnNegrita, DeColorRojo } from './components/TextFormat';
+
 
 function App() {
   return (
