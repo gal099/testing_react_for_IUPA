@@ -1,11 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import ArticleContainer from './components/ArticleContainer';
+import { Title } from './components/Title';
 
 
-function Title(props) {
-  return <h1>{props.children}</h1>
-}
 
 function Paragraph(props) {
   return <p>{props.children}</p>}
