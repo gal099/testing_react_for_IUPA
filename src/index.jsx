@@ -13,7 +13,7 @@ function App() {
       <Paragraph>
         Párrafo de mi articulo 
         <EnNegrita>
-          <DeColorRojo> importante</DeColorRojo>
+          <DeColorRojo>importante</DeColorRojo>
         </EnNegrita>!
       </Paragraph>
     </ArticleContainer>

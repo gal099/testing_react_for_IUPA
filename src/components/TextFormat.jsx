@@ -11,6 +11,6 @@ export function EnNegrita(props) {
     };
 
 export function DeColorRojo(props) {
-    return <span style={{ color: 'red' }}>{props.children}</span>
+    return <span style={{ color: 'red', margin:'0.3%'}}>{props.children}</span>
   };
 
