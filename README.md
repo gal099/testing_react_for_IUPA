@@ -4,7 +4,7 @@ __Matería: Programación Web 3__
 ----
 ***
 
-**Trabajo práctico Ract-App**
+**Trabajo práctico React-App**
 ------------------
 
 Las tareas sugeridas se encuentran a continuación:
