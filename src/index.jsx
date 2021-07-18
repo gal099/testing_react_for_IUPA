@@ -2,19 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import ArticleContainer from './components/ArticleContainer';
 import { Title } from './components/Title';
-
-
-
-function Paragraph(props) {
-  return <p>{props.children}</p>}
-
-function EnNegrita(props) {
-  return <strong>{props.children}</strong>
-}
-
-function DeColorRojo(props) {
-  return <span style={{ color: 'red' }}>{props.children}</span>
-}
+import Paragraph from './components/Paragraph';
+import EnNegrita from './components/EnNegrita';
+import DeColorRojo from './components/DeColorRojo';
 
 function App() {
   return (
